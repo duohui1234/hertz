@@ -1,4 +1,4 @@
-# This is Hertz Project
+# Hertz
 
 
 
