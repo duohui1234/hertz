@@ -1,6 +1,4 @@
-# Hertz
-
-
+# [Hertz](https://www.hertz-radio.gq/)
 
 # Model
 
